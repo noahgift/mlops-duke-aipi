@@ -1,7 +1,8 @@
 # mlops-duke-aipm
 ## MLOps for AI and ML
 
-Syllabus for Artificial Intelligence for Product Innovation Master of Engineering: https://ai.meng.duke.edu/degree
+* Syllabus for Artificial Intelligence for Product Innovation Master of Engineering: https://ai.meng.duke.edu/degree
+* [AIPI 561: Operationalizing AI (MLOPs)](https://ai.meng.duke.edu/courses#operations-core)
 
 ### Course Description
 
