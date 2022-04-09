@@ -29,6 +29,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * [Duke+Coursera:  Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 * [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
 
 ## Syllabus
 ### Date: May 9 – August 4, 2022
@@ -47,6 +48,7 @@ _Discuss your plan to build out the two individual projects and final project an
 
 ### Week 2:  Setup Development Environment
 * [Python Development Environments](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke/home/week/4)_
+* [Pytest Master Class](https://learning.oreilly.com/videos/pytest-master-class/10132021VIDEOPAIML/)
 * Weekly Discussion:
 
 _What is the advantage of a knowing both VIM and an editor like VS Code?_
@@ -62,59 +64,63 @@ _What is the advantage of a knowing both VIM and an editor like VS Code?_
 _Discuss Critical Thinking Question in Chapter 1 or 2 of Practical MLOps_
 * Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #1
 
-### Week 4:
-* []
+### Week 4: Getting Started with Machine Learning Engineering
+* [Getting Started with Machine Learning Engineering](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke/home/week/1)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss Question from Coursera Course_
 * Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #1
 
-### Week 5:
-* []
+### Week 5: Using AutoML
+* [Using AutoML](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke/home/week/2)
+* * [Chapter 5:  Chapter 5. AutoML and KaizenML](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch05.html)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
-* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
-### Week 6:
-* []
-* Weekly Discussion:
-
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss Critical Thinking Question in Chapter 5 of Practical MLOps_
 * Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
 
-### Week 7:
-* []
+### Week 6: Emerging Topics in Machine Learning
+* [Emerging Topics in Machine Learning](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke/home/week/3)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss Question from Coursera Course_
 * Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
 
-### Week 8:
-* []
+### Week 7: Evaluating the Cloud Service Model
+* [Evaluating the Cloud Service Model](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/4)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss Question from Coursera Course_
 * Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
 
-### Week 9:
-* []
+### Week 8: Applying DevOps Principles
+* [Applying DevOps Principles](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/5)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss Question from Coursera Course_
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
+
+### Week 9: Microservices
+* [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke/home/week/3)
+* Weekly Discussion:
+
+_Discuss Question from Coursera Course_
 * Weekly Demo: 30 Second to 3 minute max Demo on Final Project
 
-### Week 10:
-* []
+### Week 10: Operations
+* [Operations](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke/home/week/4)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss Question from Coursera Course_
 * Weekly Demo: Weekly Demo: 30 Second to 3 minute max Demo on Final Project
 
-### Week 11:
-* []
+### Week 11: MLOps Platforms
+* [mlflow-project-best-practices](https://github.com/noahgift/mlflow-project-best-practices)
+* [MLOps Platforms From Zero: Databricks, MLFlow/MLRun/SKLearn](https://learning.oreilly.com/videos/mlops-platforms-from/032232022VIDEOPAIML/)
+* [Azure Databricks, Pandas, and Opendatasets](https://learning.oreilly.com/videos/azure-databricks-pandas/50132VIDEOPAIML/)
 * Weekly Discussion:
 
-_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+_Discuss why MLOps Platforms have an advantage of building all components from scratch._
 * Weekly Demo: Weekly Demo: 30 Second to 3 minute max Demo on Final Project
 
 ### Week 12: Final Presentations
