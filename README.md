@@ -28,7 +28,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 * [Duke+Coursera:  Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
-
+* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 ## Syllabus
 ### Date: May 9 – August 4, 2022
