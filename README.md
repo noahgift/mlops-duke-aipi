@@ -36,31 +36,90 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 
 ## Week by Week Schedule
-### Week 1:  What is MLOPs?
-* []
-* Weekly Discussion
-* Weekly Demo
-### Week 2:  
-* []
-### Week 3: Getting Started with Cloud Computing Foundations
-* []
+### Week 1:  Getting Started with Cloud Computing Foundations and Project Planning
+* [Getting Started with Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/1)
+* [Developing Effective Technical Communication](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/2)
+* [Exploring Cloud Onboarding](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/3)
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #1
+
+### Week 2:  Setup Development Environment
+* [Python Development Environments](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke/home/week/4)_
+* Weekly Discussion:
+
+_What is the advantage of a knowing both VIM and an editor like VS Code?_
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #1
+
+### Week 3: MLOps Foundations
+* [Introduction to MLOps Walkthrough](https://learning.oreilly.com/videos/introduction-to-mlops/607312021VIDEOPAIML/)
+* [MLOPs Foundations: Chapter 2 Walkthrough of Practical MLOps](https://learning.oreilly.com/videos/mlops-foundations-chapter/607082021VIDEOPAIML/)
+* [Chapter 1:  Introduction to MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch01.html)
+* [Chapter 2. MLOps Foundations](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch02.html)
+* Weekly Discussion:
+
+_Discuss Critical Thinking Question in Chapter 1 or 2 of Practical MLOps_
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #1
+
 ### Week 4:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #1
+
 ### Week 5:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
 ### Week 6:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
+
 ### Week 7:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
+
 ### Week 8:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Individual Project #2
+
 ### Week 9:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: 30 Second to 3 minute max Demo on Final Project
+
 ### Week 10:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: Weekly Demo: 30 Second to 3 minute max Demo on Final Project
+
 ### Week 11:
 * []
+* Weekly Discussion:
+
+_Discuss your plan to build out the two individual projects and final project and how you will do them on time._
+* Weekly Demo: Weekly Demo: 30 Second to 3 minute max Demo on Final Project
+
 ### Week 12: Final Presentations
+
+* Turn in Final Projects
 
 ### Projects
 
