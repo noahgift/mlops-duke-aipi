@@ -3,6 +3,7 @@
 
 * Syllabus for Artificial Intelligence for Product Innovation Master of Engineering: https://ai.meng.duke.edu/degree
 * [AIPI 561: Operationalizing AI (MLOPs)](https://ai.meng.duke.edu/courses#operations-core)
+* May 9th to August 4th
 
 ### Course Description
 
