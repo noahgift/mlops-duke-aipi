@@ -500,3 +500,16 @@ Students in this online course should be able to do the following:
 * Follow directions to engage with a remote proctor by text, webcam, and audio.
 * Use a video player to review content, including pausing and restarting video.
 
+#### Associated Certifications
+
+You may want to complement this course with the following certifications:
+
+* [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+* [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
+* [Google-Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+
+
+
+
+
+
