@@ -34,7 +34,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
 
 ## Syllabus
-### Date: May 9 – August 4, 2022
+### Date: May 9 – August 4, 2023
 ### Optional Weekly Sync:  Friday, ET 7pm-8pm Zoom recorded
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 
