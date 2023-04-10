@@ -35,7 +35,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 ## Syllabus
 ### Date: May 9 – August 4, 2023
-### Optional Weekly Sync:  Friday, ET 7pm-8pm Zoom recorded
+### Optional Weekly Sync:  Friday, ET TBD Zoom recorded
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 
 ## Week by Week Schedule
