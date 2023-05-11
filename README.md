@@ -37,6 +37,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 ### Date: May 9 – August 4, 2023
 ### Optional Weekly Sync:  Friday, ET TBD Zoom recorded
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
+* [Rubric](https://noahgift.github.io/cloud-data-analysis-at-scale/rubric)
 
 ## Week by Week Schedule
 
