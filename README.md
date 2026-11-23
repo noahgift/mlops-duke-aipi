@@ -536,3 +536,6 @@ You may want to complement this course with the following certifications:
 
 
 
+<!-- FUNNEL-001 footer: replace mlops-duke-aipi with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=mlops-duke-aipi) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=mlops-duke-aipi)
