@@ -531,8 +531,10 @@ You may want to complement this course with the following certifications:
 * [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
 * [Google-Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
 
+<!-- funnel:start -->
+---
 
+**Learn MLOps end to end:** [Machine Learning with Databricks and MLflow (Coursera)](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=mlops-duke-aipi) · [MLOps specialization, Duke (Coursera)](https://www.coursera.org/specializations/mlops-machine-learning-duke?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=mlops-duke-aipi) · [Machine Learning Operations program (edX)](https://www.edx.org/certificates/professional-certificate/ai-machine-learning-operations?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=mlops-duke-aipi)
 
-
-
-
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
